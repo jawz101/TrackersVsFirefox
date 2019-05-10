@@ -13,6 +13,7 @@ Firefox > Privacy & Security > Content Blocking > Standard
 
 Strict Tracking Protection
 Firefox > Privacy & Security > Content Blocking > Strict
+personal note: Strict mode is when browsing performance drastically improved.
 ![StrictTP](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/noAddons_Strict_Preset/strict_preset.png)
 
 uBlock Origin "Easy Mode" (uBO's default configuration & Firefox's Content Blocking disabled.  Cosmetic filtering is irrelevant.)
