@@ -1,7 +1,12 @@
 # TrackersVsFirefox
 comparing different blocking utilities
 
-Testing against 25 sites listed in the bookmarks.html file.  Import into FFox to test yourself!
+Testing Firefox against 25 sites listed in the bookmarks.html file.
+
+Visualizations provided by Firefox Lightbeam https://addons.mozilla.org/en-US/firefox/addon/lightbeam/
+
+Import the bookmarks.html into FFox to test for yourself!
+
 
 No Tracking Protection
 Firefox > Privacy & Security > Content Blocking > Custom > uncheck everything
@@ -13,6 +18,7 @@ Firefox > Privacy & Security > Content Blocking > Standard
 
 Strict Tracking Protection
 Firefox > Privacy & Security > Content Blocking > Strict
+
 personal note: Strict mode is when browsing performance drastically improved.
 ![StrictTP](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/noAddons_Strict_Preset/strict_preset.png)
 
