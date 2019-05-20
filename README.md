@@ -37,8 +37,11 @@ NoScript custom configuration and configured
 ![NoScript Custom](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/noscript_custom/NoScript_custom.png)
 
 Normally, I would block websockets, objects, and other in uBO by default with these rules added to My Filters:
+
     *$object
     *$other
     *$websocket
+    
 and sometimes 3rd party fonts to save on bandwidth, esp. on mobile devices.  All things being blocked, woff files can still be half of a website's size.
+
     *$fonts,third-party
