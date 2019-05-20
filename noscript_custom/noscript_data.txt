@@ -1,0 +1,385 @@
+{
+  "policy": {
+    "DEFAULT": {
+      "capabilities": [],
+      "temp": false
+    },
+    "TRUSTED": {
+      "capabilities": [
+        "script",
+        "fetch",
+        "font"
+      ],
+      "temp": false
+    },
+    "UNTRUSTED": {
+      "capabilities": [],
+      "temp": false
+    },
+    "sites": {
+      "trusted": [],
+      "untrusted": [
+        "§:servebom.com",
+        "§:optimizely.com",
+        "§:onesignal.com",
+        "§:googletagmanager.com",
+        "§:urbanairship.com",
+        "§:taboola.com",
+        "§:scroll.com",
+        "§:newrelic.com",
+        "§:gcion.com",
+        "§:abtasty.com",
+        "§:facebook.net",
+        "§:doubleclick.net",
+        "§:criteo.net",
+        "§:criteo.com",
+        "§:colossusssp.com",
+        "§:amazon-adsystem.com",
+        "§:adtechus.com",
+        "§:adsafeprotected.com",
+        "§:adnxs.com",
+        "§:3lift.com",
+        "§:indexww.com",
+        "§:googletagservices.com",
+        "§:tiqcdn.com",
+        "§:sonobi.com",
+        "§:serverbid.com",
+        "§:rubiconproject.com",
+        "§:openx.net",
+        "§:pubmatic.com",
+        "§:sharethrough.com",
+        "§:segment.com",
+        "§:ranker.com",
+        "§:krxd.net",
+        "§:gscontxt.net",
+        "§:google-analytics.com",
+        "§:consensu.org",
+        "§:webcontentassessor.com",
+        "§:scorecardresearch.com",
+        "§:nile.works",
+        "§:moatads.com",
+        "§:go-mpulse.net",
+        "§:chartbeat.com",
+        "§:arcpublishing.com",
+        "§:imasdk.googleapis.com",
+        "§:posttv.com",
+        "§:crwdcntrl.net",
+        "§:polyfill.io",
+        "§:truste.com",
+        "§:fonts.googleapis.com",
+        "§:clarium.global.ssl.fastly.net",
+        "§:wfxtriggers.com",
+        "§:hotjar.com",
+        "§:kaltura.com",
+        "§:pubexchange.com",
+        "§:twitter.com",
+        "§:vilynx.com",
+        "§:zergnet.com",
+        "§:bounceexchange.com",
+        "§:bkrtx.com",
+        "§:adobedtm.com",
+        "parsely.com",
+        "segment.com",
+        "sharethrough.com",
+        "krxd.net",
+        "§:ads-twitter.com",
+        "§:licdn.com",
+        "§:ml314.com",
+        "§:pro-market.net",
+        "§:crsspxl.com",
+        "§:slashdotmedia.com",
+        "§:zidedge.com",
+        "§:createsend1.com",
+        "§:amazonaws.com",
+        "§:pub.network",
+        "§:permutive.com",
+        "§:ntv.io",
+        "§:spiffymachine.com",
+        "§:staticworld.net",
+        "§:media.net",
+        "§:outbrain.com",
+        "§:heapanalytics.com",
+        "§:includemodal.com",
+        "§:cookielaw.org",
+        "§:jwpsrv.com",
+        "§:jwpltx.com",
+        "§:art19.com",
+        "§:digitru.st",
+        "§:kinja.com",
+        "§:spotx.tv",
+        "§:userzoom.com",
+        "§:tribdss.com",
+        "§:newsinc.com",
+        "§:pinterest.com",
+        "§:oath.com",
+        "§:demdex.net",
+        "§:deployads.com",
+        "§:instant.page",
+        "§:pagefair.com",
+        "§:pagefair.net",
+        "§:pushbullet.com",
+        "§:quantserve.com",
+        "§:skimresources.com",
+        "§:googlesyndication.com",
+        "§:atwola.com",
+        "§:advertising.com",
+        "§:yahoo.com",
+        "§:cpx.to",
+        "§:matheranalytics.com",
+        "§:akamai.net",
+        "§:ensighten.com",
+        "§:gigya.com",
+        "§:tree.com",
+        "§:usabilla.com",
+        "§:ugdturner.com",
+        "hmstats.com",
+        "quantserve.com",
+        "scorecardresearch.com",
+        "googletagservices.com"
+      ],
+      "custom": {
+        "§:gannett-cdn.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:akamaihd.net": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:2mdn.net": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:washingtonpost.com": {
+          "capabilities": [
+            "script",
+            "fetch",
+            "font",
+            "media"
+          ],
+          "temp": false
+        },
+        "§:d21rhj7n383afu.cloudfront.net": {
+          "capabilities": [
+            "fetch"
+          ],
+          "temp": false
+        },
+        "§:d1pz6dax0t5mop.cloudfront.net": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:w-x.co": {
+          "capabilities": [
+            "fetch"
+          ],
+          "temp": false
+        },
+        "§:fsdn.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:jwpcdn.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:jwplayer.com": {
+          "capabilities": [
+            "fetch",
+            "script"
+          ],
+          "temp": false
+        },
+        "§:merriam-webster.com": {
+          "capabilities": [
+            "script",
+            "fetch",
+            "media"
+          ],
+          "temp": false
+        },
+        "§:kinja-static.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:prod-univision.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:lifehacker.com": {
+          "capabilities": [
+            "script",
+            "fetch",
+            "font",
+            "frame",
+            "media"
+          ],
+          "temp": false
+        },
+        "§:univision.com": {
+          "capabilities": [
+            "fetch"
+          ],
+          "temp": false
+        },
+        "§:uvnimg.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:akamaized.net": {
+          "capabilities": [
+            "fetch"
+          ],
+          "temp": false
+        },
+        "trb.com": {
+          "capabilities": [
+            "media"
+          ],
+          "temp": false
+        },
+        "§:brightcove.net": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:brightcove.com": {
+          "capabilities": [
+            "fetch"
+          ],
+          "temp": false
+        },
+        "§:media-imdb.com": {
+          "capabilities": [
+            "media"
+          ],
+          "temp": false
+        },
+        "§:media-amazon.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:db187550c7dkf.cloudfront.net": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:fncstatic.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:foxnews.com": {
+          "capabilities": [
+            "script",
+            "frame",
+            "fetch"
+          ],
+          "temp": false
+        },
+        "§:disqus.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:blogsmithmedia.com": {
+          "capabilities": [
+            "font",
+            "script"
+          ],
+          "temp": false
+        },
+        "§:vidible.tv": {
+          "capabilities": [
+            "script",
+            "media",
+            "fetch"
+          ],
+          "temp": false
+        },
+        "§:aol.com": {
+          "capabilities": [
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "§:yimg.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:aolcdn.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:trbas.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "trbas.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:cbsistatic.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        }
+      }
+    },
+    "enforced": true,
+    "autoAllowTop": true
+  },
+  "local": {
+    "debug": false,
+    "showCtxMenuItem": true,
+    "showCountBadge": true,
+    "showFullAddresses": false,
+    "storage": "local",
+    "uuid": "975bf2a1-ceb8-45ce-906d-d570fce0f393"
+  },
+  "sync": {
+    "global": false,
+    "xss": true,
+    "cascadeRestrictions": false,
+    "xssScanRequestBody": true,
+    "xssBlockUnscannedPOST": true,
+    "overrideTorBrowserPolicy": false,
+    "clearclick": true,
+    "storage": "sync"
+  },
+  "xssUserChoices": {}
+}
