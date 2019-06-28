@@ -19,7 +19,7 @@ Firefox > Privacy & Security > Content Blocking > Standard
 Strict Tracking Protection
 Firefox > Privacy & Security > Content Blocking > Strict
 
-personal note: Strict mode is when browsing performance drastically improved.
+personal note: Strict mode is when browsing performance drastically improved.  Strict Mode with the Level 2 (not depicted resulted in approx. 326 connected domains.)
 ![StrictTP](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/noAddons_Strict_Preset/strict_preset.png)
 
 uBlock Origin "Easy Mode" (uBO's default configuration & Firefox's Content Blocking disabled.  Cosmetic filtering is irrelevant.)
