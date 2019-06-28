@@ -47,3 +47,7 @@ and sometimes 3rd party fonts to save on bandwidth, esp. on mobile devices.  All
     *$font,third-party
 
 I wish someone would make a Decentraleyes for just font libraries, come up with a standard set to inject, or cache them in an add-on bucket... something.  Fonts get used for general graphics as well which is confusing.  I just don't understand them.
+
+Recommendations?
+If you don't want to deal with add-ons go into your privacy & security prefs >  Content Blocking set to custom and check all of the boxes, enable tracker blocking all windows, and block all 3rd party cookies.
+If you do want to deal with add-ons use at least NoScript or uBlock Origin in Medium Mode.  The default uBO setup doesn't offer much more than Firefox's built-in features.  Taking an aggressive approach to block all 3p scripts by default drastically eliminates the need to rely on blocklists and prevents those trackers that someone hasn't put on a blocklist yet. It's just a smarter setup to deny by default.
