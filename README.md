@@ -31,6 +31,9 @@ uBlock Origin "Medium Mode" (same as uBO Easy but third party scripts & frames d
 *Whitelisted a few domains to fix expected breakage. eg. ajax.googleapis.com, trbas.com, fscdn.com, youtube.com, ytimg.com, etc.  Global or local noop rules as appropriate.
 ![uBOMedium](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/uBlockOrigin_Medium_Mode/ublock_origin_medium_mode%2B.png)
 
+Privacy Badger
+![PrivacyBadger](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/PrivacyBadger/privacy_badger.png)
+
 NoScript custom configuration and configured
 
 *I tried to unbreak as much as possible.  I really like NoScript but its features are just different.  Pros: I like the "Trust No One" approach but you can achieve this with uBO in Medium Mode; even without any blocklists in uBO if you have Medium Mode on you're almost there.  I'd be most interested to know how NoScript and uBlock compare in regards to performance and if these implementations cripple web technologies in an unforeseen way or can cause websites to spazz and keep trying the same thing over and over. Anyways, the config file is in the folder if you want to import it.  I use NoScript in a certain way so I wanted to reproduce how I use it.  Clear out the preset domains, temporarily allow 1st-party.  Uncheck all default components, only check scripts, fonts, fetch for trusted, and apply custom permissions for any 1st and 3rd parties that need something not allowed.  Regardless, NoScript only sees 3rd parties if they come with a script, so if a domain was only referenced for web fonts you can't really block them.  In uBO you could create some My Filters to block extra stuff by default.- which I usually do, but not for these tests.  I also ran this a week later so the sites' connecting domains might've changed a little.
