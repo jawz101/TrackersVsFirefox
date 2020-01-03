@@ -48,10 +48,12 @@ Normally, I would block websockets, objects, and other in uBO by default with th
     *$object
     *$other
     *$websocket
+
 And sometimes
+
     *$xmlhttprequest,third-party
 
-...and sometimes 3rd party fonts to save on bandwidth, esp. on mobile devices.  All things being blocked, woff files can still be half of a website's size.
+...and sometimes 3rd party fonts to save on bandwidth, esp. on mobile devices.  Even in Medium Mode and on a static site, woff files can still be half of a website's size.
 
 I wish someone would make a Decentraleyes for just font libraries, come up with a standard set to inject, or cache them in an add-on bucket... something.  Fonts get used for general graphics as well which is confusing.  I just don't understand them.
 
