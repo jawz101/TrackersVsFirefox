@@ -5,7 +5,7 @@ Testing Firefox against 25 sites listed in the bookmarks.html file.  Refreshed t
 
 Visualizations provided by Firefox Lightbeam https://addons.mozilla.org/en-US/firefox/addon/lightbeam/
 *deadlink.  github repo is at https://github.com/mozilla/lightbeam-we
-uploaded the latest release which I did the testing into this parent directory file jid1-F9UJ2thwoAm5gQ@jetpack.xpi
+uploaded the latest release with which I did the testing into this parent directory file jid1-F9UJ2thwoAm5gQ@jetpack.xpi
 
 Import the bookmarks.html into FFox to test for yourself!
 
