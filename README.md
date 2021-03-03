@@ -32,7 +32,7 @@ uBlock Origin "Easy Mode" (uBO's default configuration & Firefox's Content Block
 **uBlock Origin "Medium Mode"** (same as uBO Easy but third party scripts & frames disabled.  Cosmetic filtering is irrelevant.)
 
 *Used these additional settings though it's mostly irrelevant: enable advanced mode, check the 4 privacy ckboxes (CSP, Hyperlink auditing, WebRTC, prefetching). Used all of the uBO Built-in rules in the top section as well as EasyList, Adguard Base, EasyPrivacy, Adguard Tracking Protection, and imported StevenBlack's hosts file as a custom list since it's the most solid hostsfile blocklist, disabled cosmetic filtering.)
-*Whitelisted a few domains to fix expected breakage. eg. ajax.googleapis.com, trbas.com, fscdn.com, youtube.com, ytimg.com, etc.  Global or local noop rules as appropriate.  This is the sort of separation I would want to see.  If I am on a site I am dealing with that site- not 50 other companies that have their own terms of services and privacy policies to which it is implied that I am bound.  That's not right.
+*Whitelisted a few domains to fix expected breakage. eg. ajax.googleapis.com, trbas.com, fscdn.com, youtube.com, ytimg.com, etc.  Global or local noop rules as appropriate.  This is the sort of separation I would want to see.  **If I am on a site I am dealing with that site- not 50 other companies that have their own terms of services and privacy policies to which it is implied that I am bound.  That's not right.**
 ![uBOMedium](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/uBlockOrigin_Medium_Mode/ublock_origin_medium_mode%2B.png)
 
 **Privacy Badger**
