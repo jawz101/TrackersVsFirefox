@@ -1,6 +1,8 @@
 # TrackersVsFirefox
 comparing different blocking utilities
 
+**if you use this for some research project or just want to talk about it lemme know.  I'd love to know/ help in any way.
+
 Testing Firefox against 25 sites listed in the bookmarks.html file.  Refreshed the pages a few times to make sure they fully loaded & scrolled down and up the page a few times to make sure it loaded what all it wanted.
 
 Visualizations provided by Firefox Lightbeam https://addons.mozilla.org/en-US/firefox/addon/lightbeam/
