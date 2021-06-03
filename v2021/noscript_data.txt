@@ -1,0 +1,498 @@
+{
+  "policy": {
+    "DEFAULT": {
+      "capabilities": [],
+      "temp": false
+    },
+    "TRUSTED": {
+      "capabilities": [
+        "script",
+        "media",
+        "frame",
+        "font",
+        "fetch"
+      ],
+      "temp": false
+    },
+    "UNTRUSTED": {
+      "capabilities": [],
+      "temp": false
+    },
+    "sites": {
+      "trusted": [],
+      "untrusted": [
+        "webcontentassessor.com",
+        "google-analytics.com",
+        "chartbeat.com",
+        "googleoptimize.com",
+        "nile.works",
+        "cookielaw.org",
+        "criteo.com",
+        "casalemedia.com",
+        "bounceexchange.com",
+        "boomtrain.com",
+        "adsrvr.org",
+        "ads-twitter.com",
+        "googletagservices.com",
+        "ml314.com",
+        "ngtv.io",
+        "jsdelivr.net",
+        "demdex.net",
+        "tree.com",
+        "segment.com",
+        "s-onetag.com",
+        "optimizely.com",
+        "usabilla.com",
+        "wmcdp.io",
+        "warnermediacdn.com",
+        "ugdturner.com",
+        "turner.com",
+        "sentry.io",
+        "wp.com",
+        "twitter.com",
+        "scroll.com",
+        "pushbullet.com",
+        "quantserve.com",
+        "pro-market.net",
+        "media.net",
+        "instant.page",
+        "skimresources.com",
+        "googlesyndication.com",
+        "crsspxl.com",
+        "convertkit.com",
+        "addthis.com",
+        "onesignal.com",
+        "dotmetrics.net",
+        "consensu.org",
+        "zqtk.net",
+        "ipapi.co",
+        "ziffdavis.com",
+        "zemanta.com",
+        "yieldoptimizer.com",
+        "yieldlab.net",
+        "xplosion.de",
+        "xad.com",
+        "wearemiq.com",
+        "weborama.fr",
+        "w55c.net",
+        "vtracy.de",
+        "theadex.com",
+        "teads.tv",
+        "veinteractive.com",
+        "taboola.com",
+        "spot.im",
+        "tapad.com",
+        "sportradarserving.com",
+        "sojern.com",
+        "smartclip.net",
+        "sharethis.com",
+        "serving-sys.com",
+        "semasio.net",
+        "scoota.co",
+        "plista.com",
+        "programattik.com",
+        "orangeads.fr",
+        "opecloud.com",
+        "oath.com",
+        "nxtck.com",
+        "neodatagroup.com",
+        "ncaudienceexchange.com",
+        "mookie1.com",
+        "mediaforge.com",
+        "mathtag.com",
+        "linksynergy.com",
+        "leadplace.fr",
+        "ipromote.com",
+        "jaduda.com",
+        "gumgum.com",
+        "fonecta.fi",
+        "intellitxt.com",
+        "flashtalking.com",
+        "eyeota.net",
+        "exelator.com",
+        "everesttech.net",
+        "emerse.com",
+        "dotomi.com",
+        "de17a.com",
+        "datafront.co",
+        "crwdcntrl.net",
+        "creative-serving.com",
+        "cpx.to",
+        "brand-display.com",
+        "audiencemanager.de",
+        "amgdgt.com",
+        "affec.tv",
+        "agkn.com",
+        "adroll.com",
+        "adition.com",
+        "adgrx.com",
+        "adform.net",
+        "adbutter.net",
+        "ad4mat.net",
+        "ad-srv.net",
+        "4wnetwork.com",
+        "3lift.com",
+        "fonticons.com",
+        "parsely.com",
+        "aaxads.com",
+        "fontawesome.com",
+        "googleadservices.com",
+        "quora.com",
+        "licdn.com",
+        "liveperson.net",
+        "pingdom.net",
+        "onetag-sys.com",
+        "raxcdn.com",
+        "cloudflareinsights.com",
+        "newrelic.com",
+        "zergnet.com",
+        "yahoosandbox.com",
+        "threadloom.com",
+        "speedcurve.com",
+        "deployads.com",
+        "tiqcdn.com",
+        "moatads.com",
+        "lockerdome.com",
+        "getshogun.com",
+        "avmws.com",
+        "attn.tv",
+        "snapchat.com",
+        "pinoculars.com",
+        "owneriq.net",
+        "tiktok.com",
+        "trafficmanager.net",
+        "yotpo.com",
+        "zdassets.com",
+        "cartfulsolutions.com",
+        "omny.fm",
+        "lytics.io",
+        "h-cdn.com",
+        "taplytics.com",
+        "webcontentassessor.global.ssl.fastly.net",
+        "permutive.app",
+        "edgekey.net",
+        "vidible.tv",
+        "adlightning.com",
+        "pinimg.com",
+        "matheranalytics.com",
+        "revcontent.com",
+        "connatix.com",
+        "trackonomics.net",
+        "imasdk.googleapis.com",
+        "heapanalytics.com",
+        "plantdigestion.com",
+        "advertising.com",
+        "spotxchange.com",
+        "technoratimedia.com",
+        "geoedge.be",
+        "permutive.com",
+        "ntv.io",
+        "ipify.org",
+        "subscribers.com",
+        "typekit.net",
+        "iubenda.com",
+        "hotjar.com",
+        "colossusssp.com",
+        "adtechus.com",
+        "serverbid.com",
+        "sonobi.com",
+        "onetrust.com",
+        "alexametrics.com",
+        "rvapps.io",
+        "bugsnag.com",
+        "afterpay.com",
+        "smile.io",
+        "shopifysvc.com",
+        "ubembed.com",
+        "aswpsdkus.com",
+        "pubmatic.com",
+        "buzzfeed.com",
+        "chtbl.com",
+        "confiant-integrations.global.ssl.fastly.net",
+        "californiatimes.com",
+        "btloader.com",
+        "kinja.com",
+        "britepool.com",
+        "videoplayerhub.com",
+        "includemodal.global.ssl.fastly.net",
+        "atwola.com",
+        "fwmrm.net",
+        "iframe.ly",
+        "associates-amazon.com",
+        "xg4ken.com",
+        "1trust.app",
+        "sp-prod.net",
+        "gscontxt.net",
+        "zeustechnology.com",
+        "kampyle.com",
+        "clarium.global.ssl.fastly.net",
+        "tinypass.com",
+        "instana.io",
+        "npttech.com",
+        "ipmeta.io",
+        "brandmetrics.com",
+        "amazon-adsystem.com",
+        "adsafeprotected.com",
+        "adnxs.com",
+        "go-mpulse.net",
+        "doubleclick.net",
+        "criteo.net",
+        "krxd.net",
+        "openx.net",
+        "polyfill.io",
+        "rubiconproject.com",
+        "scorecardresearch.com",
+        "sentry-cdn.com",
+        "trustx.org",
+        "unpkg.com",
+        "indexww.com",
+        "googletagmanager.com",
+        "hulkapps.com",
+        "klaviyo.com",
+        "netdna-ssl.com",
+        "outbrain.com"
+      ],
+      "custom": {
+        "§:jquery.com": {
+          "capabilities": [
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "§:cloudflare.com": {
+          "capabilities": [
+            "other",
+            "font"
+          ],
+          "temp": false
+        },
+        "§:redditstatic.com": {
+          "capabilities": [
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "§:ajax.googleapis.com": {
+          "capabilities": [
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "§:bootstrapcdn.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:brightcove.net": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:disqus.com": {
+          "capabilities": [
+            "script",
+            "frame"
+          ],
+          "temp": false
+        },
+        "§:disquscdn.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:gstatic.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:aolcdn.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:yimg.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:youtube.com": {
+          "capabilities": [
+            "frame",
+            "script",
+            "fetch",
+            "media"
+          ],
+          "temp": false
+        },
+        "§:shopify.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "shopify.com": {
+          "capabilities": [
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "§:sc-static.net": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:googlevideo.com": {
+          "capabilities": [
+            "fetch"
+          ],
+          "temp": false
+        },
+        "§:fncstatic.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:akamaihd.net": {
+          "capabilities": [
+            "script",
+            "fetch",
+            "font"
+          ],
+          "temp": false
+        },
+        "§:ssl-images-amazon.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:media-amazon.com": {
+          "capabilities": [
+            "script",
+            "frame"
+          ],
+          "temp": false
+        },
+        "§:brightspotcdn.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:accuweather.com": {
+          "capabilities": [
+            "fetch"
+          ],
+          "temp": false
+        },
+        "simplecast.com": {
+          "capabilities": [
+            "frame",
+            "script",
+            "fetch"
+          ],
+          "temp": false
+        },
+        "§:kinja-static.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:jwpcdn.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:jwplayer.com": {
+          "capabilities": [
+            "fetch"
+          ],
+          "temp": false
+        },
+        "akamaized.net": {
+          "capabilities": [
+            "font",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "§:nyt.com": {
+          "capabilities": [
+            "script",
+            "media",
+            "frame",
+            "fetch"
+          ],
+          "temp": false
+        },
+        "§:youtube-nocookie.com": {
+          "capabilities": [
+            "frame",
+            "script"
+          ],
+          "temp": false
+        },
+        "§:futurecdn.net": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:d1zcggttmijv1z.cloudfront.net": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:fbcdn.net": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "§:msauth.net": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        }
+      }
+    },
+    "enforced": true,
+    "autoAllowTop": true
+  },
+  "local": {
+    "debug": false,
+    "showCtxMenuItem": true,
+    "showCountBadge": true,
+    "showFullAddresses": false,
+    "amnesticUpdates": false,
+    "storage": "local",
+    "uuid": "7576ead3-0c3c-4d13-837a-df52d72c3641"
+  },
+  "sync": {
+    "global": false,
+    "xss": true,
+    "cascadeRestrictions": true,
+    "overrideTorBrowserPolicy": false,
+    "clearclick": true,
+    "storage": "sync"
+  },
+  "xssUserChoices": {}
+}
