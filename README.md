@@ -24,18 +24,17 @@ Firefox > Privacy & Security > Content Blocking > Standard
 Firefox > Privacy & Security > Content Blocking > Strict
 ![StrictTP](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/v2021/strict.png)
 
-uBlock Origin "Easy Mode" (uBO's default configuration & Firefox's Content Blocking disabled.  Cosmetic filtering is irrelevant.)
+**uBlock Origin "Easy Mode"** (uBO's default configuration & Firefox's Content Blocking disabled.  Cosmetic filtering is irrelevant.)
 ![uBOEasy](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/uBlockOrigin_Defaults/ublock_origin_default_preset.png)
 
 **uBlock Origin "Medium Mode"** (same as uBO Easy but third party scripts & frames disabled.  Cosmetic filtering is irrelevant.  attached my setup)
-![uBOMedium](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/v2021/noscript.png)
-
-**Privacy Badger**
-![PrivacyBadger](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/PrivacyBadger/privacy_badger.png)
+![uBOMedium](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/v2021/ubo_medium.png)
 
 **NoScript** (custom configuration. attached my setup)
 ![NoScript Custom](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/v2021/noscript.png)
 
+**Privacy Badger**
+![PrivacyBadger](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/PrivacyBadger/privacy_badger.png)
 
 *Notes on UBlock Origin*
 Normally, I would block websockets, objects, and other in uBO by default with these rules added to My Filters:
