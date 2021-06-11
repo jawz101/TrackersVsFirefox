@@ -1,6 +1,19 @@
 # TrackersVsFirefox
 comparing different blocking utilities
 
+version 2021 update:  More Trackers, Firefox Enhanced Tracking doing better.
+
+| ****           | **2019** | **percent blocked** | **2021** | **percent blocked** | **change** |
+|----------------|----------|---------------------|----------|---------------------|------------|
+| none           | 1145     |                     | 1448     |                     |            |
+| standard       | 885      | 22.7%               | 1244     | 14.1%               | -8.6%      |
+| strict         | 445      | 61.1%               | 469      | 67.6%               | 6.5%       |
+| uBO            | 209      | 81.7%               | 209      | 85.6%               | 3.8%       |
+| uBO Medium     | 71       | 93.8%               | 111      | 92.3%               | -1.5%      |
+| NoScript       | 128      | 88.8%               | 140      | 90.3%               | 1.5%       |
+| Privacy Badger | 311      | 72.8%               | 414      | 71.4%               | -1.4%      |
+
+
 **if you use this for some research project or just want to talk about it lemme know.  I'd love to know/ help in any way.
 
 Testing Firefox against 25 sites listed in the bookmarks.html file.  Refreshed the pages a few times to make sure they fully loaded & scrolled down and up the page a few times to make sure it loaded what all it wanted.
