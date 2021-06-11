@@ -34,7 +34,7 @@ Firefox > Privacy & Security > Content Blocking > Strict
 ![NoScript Custom](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/v2021/noscript.png)
 
 **Privacy Badger**
-![PrivacyBadger](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/PrivacyBadger/privacy_badger.png)
+![PrivacyBadger](https://raw.githubusercontent.com/jawz101/TrackersVsFirefox/master/v2021/privacy_badger.png)
 
 *Notes on UBlock Origin*
 Normally, I would block websockets, objects, and other in uBO by default with these rules added to My Filters:
