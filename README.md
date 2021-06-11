@@ -3,9 +3,9 @@ comparing different blocking utilities
 
 version 2021 update:  More Trackers, Firefox Enhanced Tracking doing better.
 
-| ****           | **2019** | **percent blocked** | **2021** | **percent blocked** | **change** |
+| Lightbeam hits | **2019** | **percent blocked** | **2021** | **percent blocked** | **change** |
 |----------------|----------|---------------------|----------|---------------------|------------|
-| none           | 1145     |                     | 1448     |                     |            |
+| noblocking     | 1145     |                     | 1448     |                     |            |
 | standard       | 885      | 22.7%               | 1244     | 14.1%               | -8.6%      |
 | strict         | 445      | 61.1%               | 469      | 67.6%               | 6.5%       |
 | uBO            | 209      | 81.7%               | 209      | 85.6%               | 3.8%       |
